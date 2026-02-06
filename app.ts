@@ -1,11 +1,11 @@
-const express = require('express');
+import express from 'express';
+import cors from 'cors';
+import ouffitRoutes from './ouffit/routes';
+
 const app = express();
-const cors = require('cors');
 
 app.use(cors());
 app.use(express.json());
-
-const ouffitRoutes = require('./ouffit/routes');
 app.use('/ouffit', ouffitRoutes);
 
 const PORT = 3000;

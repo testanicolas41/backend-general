@@ -2,6 +2,21 @@
   {
     "id": 1,
     "name": "Remera Hollister",
-    "uses": 22222
+    "uses": 3
+  },
+  {
+    "id": 2,
+    "name": "Remera Negra",
+    "uses": 0
+  },
+  {
+    "id": 3,
+    "name": "Remera Narrow",
+    "uses": 0
+  },
+  {
+    "id": 4,
+    "name": "Remera Azul",
+    "uses": 0
   }
 ]
