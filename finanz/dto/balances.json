@@ -1,0 +1,66 @@
+[
+  {
+    "balanceTypeId": 1,
+    "price": 976403,
+    "observations": "Cuenta Principal",
+    "isInverted": true,
+    "dateFin": "-",
+    "percentageAnnual": 25.7,
+    "isDolar": false
+  },
+  {
+    "balanceTypeId": 2,
+    "price": 1,
+    "observations": "Cuenta Principal",
+    "isInverted": false,
+    "isDolar": false
+  },
+  {
+    "balanceTypeId": 2,
+    "price": 6000000,
+    "observations": "Plazo Fijo UVA",
+    "isInverted": true,
+    "percentageAnnual": 1,
+    "dateFin": "22/12/2025 - 23/03/2026",
+    "isDolar": false
+  },
+  {
+    "balanceTypeId": 4,
+    "price": 6903748,
+    "observations": "Caucion ",
+    "isInverted": true,
+    "percentageAnnual": 30,
+    "isDolar": false
+  },
+  {
+    "balanceTypeId": 4,
+    "price": 480000,
+    "observations": "S&P500",
+    "isInverted": true,
+    "isDolar": false
+  },
+  {
+    "balanceTypeId": 3,
+    "price": 50000,
+    "observations": "Cuenta Principal",
+    "isInverted": false,
+    "isDolar": false
+  },
+  {
+    "balanceTypeId": 3,
+    "price": 500000,
+    "observations": "Fondo Común",
+    "isInverted": true,
+    "percentageAnnual": 40,
+    "dateFin": "19/11/2025 - ?",
+    "isDolar": false
+  },
+  {
+    "balanceTypeId": 6,
+    "price": 6123287,
+    "observations": "Cuenta Principal",
+    "isInverted": true,
+    "percentageAnnual": 21,
+    "isDolar": false
+  }
+]

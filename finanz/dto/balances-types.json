@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Mercado Pago",
+    "color": "#2abcff",
+    "icon": "./icons//mercado-pago.svg"
+  },
+  {
+    "id": 2,
+    "name": "Santander",
+    "color": "#ec0000",
+    "icon": "./icons//santander.svg"
+  },
+  {
+    "id": 3,
+    "name": "Brubank",
+    "color": "#624bd9",
+    "icon": "./icons//brubank.webp"
+  },
+  {
+    "id": 4,
+    "name": "Invertir Online",
+    "color": "#43228d",
+    "icon": "./icons/iol.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Personal Pay",
+    "color": "#5f45fe",
+    "icon": "./icons/personal-pay.jpg"
+  },
+  {
+    "id": 6,
+    "name": "NaranjaX",
+    "color": "#fe5508",
+    "icon": "./icons/naranjaX.webp"
+  },
+  {
+    "id": 7,
+    "name": "Efectivo",
+    "color": "#4caf50",
+    "icon": "./icons/dolar.png"
+  }
+]
